@@ -1,5 +1,6 @@
 # My Recipe Book 🍲
 
+
 A comprehensive and offline-first recipe management application built with Flutter, designed for storing and organizing your favorite Indian food recipes.
 
 ## App Showcase
@@ -8,16 +9,16 @@ A comprehensive and offline-first recipe management application built with Flutt
 The main screen provides a vibrant, at-a-glance view of all recipes. It features an integrated search bar and a filterable list of collections. The search is powerful, allowing users to find recipes by title, description, or even by ingredients.
 
 <p align="center">
-  <img src="PASTE_YOUR_HOME_SCREEN_URL_HERE" width="250" alt="Home Screen">
-  <img src="PASTE_YOUR_SEARCH_SCREEN_URL_HERE" width="250" alt="Search Screen">
+  <img src="https://github.com/user-attachments/assets/bea9cb16-5025-4695-92d0-3684712d4a95" width="250" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/fc603cdc-164d-4f5b-a8b9-8ec6b7fd54ff" width="250" alt="Search Screen">
 </p>
 
 ### Full Recipe Management
 The app features complete Create, Read, Update, and Delete (CRUD) functionality. Users can add new recipes with a detailed, user-friendly form or edit existing ones.
 
 <p align="center">
-  <img src="PASTE_YOUR_ADD_RECIPE_SCREEN_URL_HERE" width="250" alt="Add Recipe Screen">
-  <img src="PASTE_YOUR_EDIT_RECIPE_SCREEN_URL_HERE" width="250" alt="Edit Recipe Screen">
+  <img src="https://github.com/user-attachments/assets/cdd1b40e-2001-4823-92c8-fda0f9ae8c1a" width="250" alt="Add Recipe Screen">
+  <img src="https://github.com/user-attachments/assets/7b27e567-bfec-490e-b83b-f4c7a84074c9" width="250" alt="Edit Recipe Screen">
 </p>
 
 ### Interactive Details
@@ -26,18 +27,18 @@ The detail screen showcases the recipe with a large header image and clear instr
 * **Star Ratings:** Users can tap the rating to open a dialog and save their own rating for the recipe.
 
 <p align="center">
-  <img src="PASTE_YOUR_RECIPE_DETAIL_SCREEN_URL_HERE" width="250" alt="Recipe Detail Screen">
-  <img src="PASTE_YOUR_SERVING_COUNTER_URL_HERE" width="250" alt="Serving Counter in Action">
-  <img src="PASTE_YOUR_RATING_DIALOG_URL_HERE" width="250" alt="Rating Dialog">
+  <img src="https://github.com/user-attachments/assets/948769e3-a94b-439c-a26f-1121588a455f" width="250" alt="Recipe Detail Screen">
+  <img src="https://github.com/user-attachments/assets/18e3f5ab-16f5-411e-8bb1-70300eda7f5f" width="250" alt="Serving Counter in Action">
+  <img src="https://github.com/user-attachments/assets/ab18482a-97bd-433b-965f-fa846a3b8480" width="250" alt="Rating Dialog">
 </p>
 
 ### Powerful Organization with Collections & Favorites
 Users can mark recipes as favorites for quick access in a dedicated tab. For more advanced organization, users can create their own custom collections, which can be edited and deleted.
 
 <p align="center">
-  <img src="PASTE_YOUR_COLLECTION_SCREEN_URL_HERE" width="250" alt="Collections Screen">
-  <img src="PASTE_YOUR_FAVORITE_SCREEN_URL_HERE" width="250" alt="Favorites Screen">
-  <img src="PASTE_YOUR_COLLECTION_DETAIL_SCREEN_URL_HERE" width="250" alt="Collection Detail Screen">
+  <img src="https://github.com/user-attachments/assets/bd8fa8de-0c8a-47b4-bfe2-08394569041f" width="250" alt="Collections Screen">
+  <img src="https://github.com/user-attachments/assets/cc2731e5-c434-40db-baf5-99bcb5188cb8" width="250" alt="Favorites Screen">
+  <img src="https://github.com/user-attachments/assets/66e79e7d-92b8-4914-b491-ef94ef830c38" width="250" alt="Collection Detail Screen">
 </p>
 
 ## Features
@@ -81,3 +82,4 @@ To run this project locally, follow these steps:
     ```bash
     flutter run
     ```
+    
