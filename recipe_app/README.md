@@ -5,39 +5,39 @@ A comprehensive and offline-first recipe management application built with Flutt
 ## App Showcase
 
 ### Home & Powerful Search
-[cite_start]The main screen provides a vibrant, at-a-glance view of all recipes[cite: 84]. It features an integrated search bar and a filterable list of collections. [cite_start]The search is powerful, allowing users to find recipes by title, description, or even by ingredients[cite: 86].
+The main screen provides a vibrant, at-a-glance view of all recipes. It features an integrated search bar and a filterable list of collections. The search is powerful, allowing users to find recipes by title, description, or even by ingredients.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/84" width="250" alt="Home Screen">
-  <img src="http://googleusercontent.com/file_content/86" width="250" alt="Search Screen">
+  <img src="PASTE_YOUR_HOME_SCREEN_URL_HERE" width="250" alt="Home Screen">
+  <img src="PASTE_YOUR_SEARCH_SCREEN_URL_HERE" width="250" alt="Search Screen">
 </p>
 
 ### Full Recipe Management
-The app features complete Create, Read, Update, and Delete (CRUD) functionality. [cite_start]Users can add new recipes with a detailed, user-friendly form [cite: 90] [cite_start]or edit existing ones[cite: 87].
+The app features complete Create, Read, Update, and Delete (CRUD) functionality. Users can add new recipes with a detailed, user-friendly form or edit existing ones.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/90" width="250" alt="Add Recipe Screen">
-  <img src="http://googleusercontent.com/file_content/87" width="250" alt="Edit Recipe Screen">
+  <img src="PASTE_YOUR_ADD_RECIPE_SCREEN_URL_HERE" width="250" alt="Add Recipe Screen">
+  <img src="PASTE_YOUR_EDIT_RECIPE_SCREEN_URL_HERE" width="250" alt="Edit Recipe Screen">
 </p>
 
 ### Interactive Details
-[cite_start]The detail screen showcases the recipe with a large header image and clear instructions[cite: 88]. It includes two key interactive features:
-* [cite_start]**Dynamic Ingredient Scaling:** Users can increase or decrease the serving size, and all ingredient quantities are automatically recalculated in real-time[cite: 89].
-* [cite_start]**Star Ratings:** Users can tap the rating to open a dialog and save their own rating for the recipe[cite: 92].
+The detail screen showcases the recipe with a large header image and clear instructions. It includes two key interactive features:
+* **Dynamic Ingredient Scaling:** Users can increase or decrease the serving size, and all ingredient quantities are automatically recalculated in real-time.
+* **Star Ratings:** Users can tap the rating to open a dialog and save their own rating for the recipe.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/88" width="250" alt="Recipe Detail Screen">
-  <img src="http://googleusercontent.com/file_content/89" width="250" alt="Serving Counter in Action">
-  <img src="http://googleusercontent.com/file_content/92" width="250" alt="Rating Dialog">
+  <img src="PASTE_YOUR_RECIPE_DETAIL_SCREEN_URL_HERE" width="250" alt="Recipe Detail Screen">
+  <img src="PASTE_YOUR_SERVING_COUNTER_URL_HERE" width="250" alt="Serving Counter in Action">
+  <img src="PASTE_YOUR_RATING_DIALOG_URL_HERE" width="250" alt="Rating Dialog">
 </p>
 
 ### Powerful Organization with Collections & Favorites
-[cite_start]Users can mark recipes as favorites for quick access in a dedicated tab[cite: 85]. [cite_start]For more advanced organization, users can create their own custom collections, which can be edited and deleted[cite: 91, 93].
+Users can mark recipes as favorites for quick access in a dedicated tab. For more advanced organization, users can create their own custom collections, which can be edited and deleted.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/91" width="250" alt="Collections Screen">
-  <img src="http://googleusercontent.com/file_content/85" width="250" alt="Favorites Screen">
-  <img src="http://googleusercontent.com/file_content/93" width="250" alt="Collection Detail Screen">
+  <img src="PASTE_YOUR_COLLECTION_SCREEN_URL_HERE" width="250" alt="Collections Screen">
+  <img src="PASTE_YOUR_FAVORITE_SCREEN_URL_HERE" width="250" alt="Favorites Screen">
+  <img src="PASTE_YOUR_COLLECTION_DETAIL_SCREEN_URL_HERE" width="250" alt="Collection Detail Screen">
 </p>
 
 ## Features
