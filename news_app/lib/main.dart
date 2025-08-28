@@ -5,6 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'secrets.dart';
 
 void main() {
   runApp(const NewsApp());
@@ -153,7 +154,7 @@ class MainScreenState extends State<MainScreen> {
 
 
 class NewsService {
-  static const String apiKey = 'c3b1aad9c7c9442f82965fd2d0274bc6';
+  static const String apiKey = newsApiKey;
   static const String baseUrl = 'https://newsapi.org/v2';
 
   static Future<List<Article>> getNews({String? endpoint, String? country, String? query, int page = 1}) async {
