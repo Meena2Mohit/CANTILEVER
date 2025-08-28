@@ -1,43 +1,44 @@
 # My Recipe Book 🍲
 
+
 A comprehensive and offline-first recipe management application built with Flutter, designed for storing and organizing your favorite Indian food recipes.
 
 ## App Showcase
 
 ### Home & Powerful Search
-[cite_start]The main screen provides a vibrant, at-a-glance view of all recipes[cite: 84]. It features an integrated search bar and a filterable list of collections. [cite_start]The search is powerful, allowing users to find recipes by title, description, or even by ingredients[cite: 86].
+The main screen provides a vibrant, at-a-glance view of all recipes. It features an integrated search bar and a filterable list of collections. The search is powerful, allowing users to find recipes by title, description, or even by ingredients.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/84" width="250" alt="Home Screen">
-  <img src="http://googleusercontent.com/file_content/86" width="250" alt="Search Screen">
+  <img src="https://github.com/user-attachments/assets/bea9cb16-5025-4695-92d0-3684712d4a95" width="250" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/fc603cdc-164d-4f5b-a8b9-8ec6b7fd54ff" width="250" alt="Search Screen">
 </p>
 
 ### Full Recipe Management
-The app features complete Create, Read, Update, and Delete (CRUD) functionality. [cite_start]Users can add new recipes with a detailed, user-friendly form [cite: 90] [cite_start]or edit existing ones[cite: 87].
+The app features complete Create, Read, Update, and Delete (CRUD) functionality. Users can add new recipes with a detailed, user-friendly form or edit existing ones.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/90" width="250" alt="Add Recipe Screen">
-  <img src="http://googleusercontent.com/file_content/87" width="250" alt="Edit Recipe Screen">
+  <img src="https://github.com/user-attachments/assets/cdd1b40e-2001-4823-92c8-fda0f9ae8c1a" width="250" alt="Add Recipe Screen">
+  <img src="https://github.com/user-attachments/assets/7b27e567-bfec-490e-b83b-f4c7a84074c9" width="250" alt="Edit Recipe Screen">
 </p>
 
 ### Interactive Details
-[cite_start]The detail screen showcases the recipe with a large header image and clear instructions[cite: 88]. It includes two key interactive features:
-* [cite_start]**Dynamic Ingredient Scaling:** Users can increase or decrease the serving size, and all ingredient quantities are automatically recalculated in real-time[cite: 89].
-* [cite_start]**Star Ratings:** Users can tap the rating to open a dialog and save their own rating for the recipe[cite: 92].
+The detail screen showcases the recipe with a large header image and clear instructions. It includes two key interactive features:
+* **Dynamic Ingredient Scaling:** Users can increase or decrease the serving size, and all ingredient quantities are automatically recalculated in real-time.
+* **Star Ratings:** Users can tap the rating to open a dialog and save their own rating for the recipe.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/88" width="250" alt="Recipe Detail Screen">
-  <img src="http://googleusercontent.com/file_content/89" width="250" alt="Serving Counter in Action">
-  <img src="http://googleusercontent.com/file_content/92" width="250" alt="Rating Dialog">
+  <img src="https://github.com/user-attachments/assets/948769e3-a94b-439c-a26f-1121588a455f" width="250" alt="Recipe Detail Screen">
+  <img src="https://github.com/user-attachments/assets/18e3f5ab-16f5-411e-8bb1-70300eda7f5f" width="250" alt="Serving Counter in Action">
+  <img src="https://github.com/user-attachments/assets/ab18482a-97bd-433b-965f-fa846a3b8480" width="250" alt="Rating Dialog">
 </p>
 
 ### Powerful Organization with Collections & Favorites
-[cite_start]Users can mark recipes as favorites for quick access in a dedicated tab[cite: 85]. [cite_start]For more advanced organization, users can create their own custom collections, which can be edited and deleted[cite: 91, 93].
+Users can mark recipes as favorites for quick access in a dedicated tab. For more advanced organization, users can create their own custom collections, which can be edited and deleted.
 
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/91" width="250" alt="Collections Screen">
-  <img src="http://googleusercontent.com/file_content/85" width="250" alt="Favorites Screen">
-  <img src="http://googleusercontent.com/file_content/93" width="250" alt="Collection Detail Screen">
+  <img src="https://github.com/user-attachments/assets/bd8fa8de-0c8a-47b4-bfe2-08394569041f" width="250" alt="Collections Screen">
+  <img src="https://github.com/user-attachments/assets/cc2731e5-c434-40db-baf5-99bcb5188cb8" width="250" alt="Favorites Screen">
+  <img src="https://github.com/user-attachments/assets/66e79e7d-92b8-4914-b491-ef94ef830c38" width="250" alt="Collection Detail Screen">
 </p>
 
 ## Features
@@ -81,3 +82,4 @@ To run this project locally, follow these steps:
     ```bash
     flutter run
     ```
+    
